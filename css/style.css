@@ -40,3 +40,9 @@ figcaption {
 #logo {
   background-color: aqua;
 }
+
+/* Descendent selector */
+
+#logo h1 {
+  font-family: 'Clicker Script', cursive;
+}
